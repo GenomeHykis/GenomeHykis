@@ -1,4 +1,4 @@
-Hi, I'm Aditya !
+# Hi, I'm Aditya !
 
 # 💫 About Me:
 🔭 I’m currently working on Learning full-stack web development and contributing to open-source projects.<br>👯 I’m looking to collaborate on Web-based projects, beginner-friendly open-source repositories, and hackathons.<br>🤝 I’m looking for help with Getting better at system design, clean code practices, and using AI/ML in web projects.<br>🌱 I’m currently pursuing undergrad in Computer Science an Engineering<br>💬 Ask me about AIML, HTML/CSS, JavaScript basics, GitHub, writing technical content, or contributing to open source.<br>⚡ Fun fact : I once pulled an all-nighter fixing a bug… turned out to be a missing semicolon.
